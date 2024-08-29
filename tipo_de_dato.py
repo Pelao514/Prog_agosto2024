@@ -1,6 +1,6 @@
 #string - cadena de caracteres , va entre comillas simples o dobles
 
-nombre="Juan"
+nombre="Pedro"
 print (" El Nombre es :", nombre)
 
 #integer ( int) - enteros , son numeros naturales , 0,1,2....9
