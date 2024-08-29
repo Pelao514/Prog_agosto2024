@@ -1,0 +1,9 @@
+""" el gerente de ventas de mercado libre desea habilitar envios gratis para compras a partir de los 15.000 pesos
+se necesita un programa que ingrese el monto de la compra e informe al usuario si accede o no al beneficio """
+
+
+precio = float( input("ingrese valor de la compra " ))
+if precio > 15000:
+   print ("tiene envio gratis ", precio)
+else:
+    print (" no tine envio gratis ", precio)   

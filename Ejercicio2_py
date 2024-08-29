@@ -1,0 +1,26 @@
+"""la afa  tiene conocimiento que son tres estadios los mas grandes de Argentina. Se necesita un programa que ingrese 
+el nombre del estadio y capacidad de cada uno y determine cual es el mayor de todos """
+
+estadio1= str(input(" ingrese nombre de estadio 1  :"))
+capacidad1= int (input ( "ingrese la capacidad:"))
+estadio2= str(input (" ingrese nombre estadio 2 :"))
+capacidad2= int (input("ingrese la capacidad : "))
+estadio3= str(input("ingrese nombre estadio 3 :"))
+capacidad3= in( input("ingrese la capacidad :" ))
+ if capacidad1>capacidad2:
+    if capacidad1>capacidad3
+       mayor_capacidad= capacidad1
+       print ("el estadio con mayor capacidad es", estadio1 ," con una capacidad de", capacidad1 ) 
+    else:
+        mayor_capacidad = capacidad3
+        print (" el estadio con amyor capacidad es ", estadio3, " con unas capacidad de " , capacidad3)  
+else: 
+    if capacidad2 > capacidad3
+    mayor_capacidad = capacidad2
+    print (" el estadio con mayor capacidad es", estadio2, " con una capacidad de " , capacidad2)   
+    else:
+        mayor_capacidad = capacidad3
+        print (" el estadio con mayor capacidad es", estadio3, " con una capacidad de ",capacidad3)      
+       
+    
+                        
